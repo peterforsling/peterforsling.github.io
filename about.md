@@ -64,3 +64,7 @@ title: About
 		</ul>
 	</li>
 </ul>
+
+<h3>Hobbies that I think I have but actually don't</h3>
+<p>These tend to be the hobbies that I like watching other people having:</p>
+<ul> <li>Working on/Fixing cars</li><li>Gardening</li><li>Keeping aquariums</li><li>Watching NBA</li><li>Camping</li></ul>
