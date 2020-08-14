@@ -1,4 +1,8 @@
 <nav>
-  <a href="/">Home</a>
-  <a href="/about.html">About</a>
+  {% for item in site.data.navigation %}
+    <!--Make the link red if it is current page-->
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
 </nav>

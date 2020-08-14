@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About Me
 ---
 
 {% comment %} About page {% endcomment %}
@@ -10,12 +10,13 @@ title: About
 <h3>Education</h3>
 <p>I am entering my senior year at the University of Utah studying Computer Science, anticipating a Spring 2021 graduation. I am also a candidate for the School of Computing's BS/MS program, where students can get their MS in Computer Science in their fifth year.</p>
 
-<p>There is more to my college career than being a student. Most notably, I work as a Teaching Assistant for the School of Computing. Additionally, I am involved in two extracurricular entities. <a href="https://hacktheu.org" target="_blank">HacktheU</a>, a non-profit organization devoted to foster learning in the Utah technology community, as well as <a href="https://wic.utahclubs.org" target="_blank">Women in Computing</a>, a group where women and allies can come to build relationships, network, and further develop their skills and careers.</p>
+<p>There is more to my college career than being a student. Most notably, I work as a Teaching Assistant for the School of Computing. Additionally, I have been involved with two extracurricular entities. <a href="https://hacktheu.org" target="_blank">HacktheU</a>, a non-profit organization devoted to foster learning in the Utah technology community, as well as <a href="https://wic.utahclubs.org" target="_blank">Women in Computing</a>, a group where women and allies can come to build relationships, network, and further develop their skills and careers.</p>
 
 <h3>Career</h3>
-<p>I am currently a summer Software Engineer Intern at <a href="https://l3harris.com" target="_blank">L3Harris Technologies</a>. I will figure out what I can share about this internship in the fall.</p>
+<p>I am a Teaching Assistant at the <a href="https://cs.utah.edu" target="_blank">University of Utah School of Computing</a>. I have assisted in various pre-major courses and am responsible for hosting office hours where students can get one on one help with assignments or other course topics, hosting labs where students can apply what they've learned in lecture, and be a mentor for these new students. Being a Teaching Assistant is something I take a lot of pride in, because this industry is intimidating, and competitve. I always want to be the exception of this stigma, and this position puts me in a great role to be the change I want to see.</p>
 
-<p>As stated before, I am a Teaching Assistant at the <a href="https://cs.utah.edu" target="_blank">University of Utah School of Computing</a>. I have assisted in various pre-major courses and am responsible for hosting office hours where students can get one on one help with assignments or other course topics, hosting labs where students can apply what they've learned in lecture, and be a mentor for these new students. Being a Teaching Assistant is something I take a lot of pride in, because this industry is intimidating, and competitve. I always want to be the exception of this stigma, and this position puts me in a great role to be the change I want to see.</p>
+<p>I have completed an internship with <a href="https://l3harris.com" target="_blank">L3Harris Technologies</a> over summer 2020. I was on the Tactical Software Team at L3Harris' Communication Systems West Branch where I worked in an embedded Linux C# .NET Core environment, that involved implementing and working with multiple Communication Interface Protocols over Ethernet connections.</p>
+
 
 <h3>Hobbies</h3>
 <ul>
@@ -59,7 +60,7 @@ title: About
 		Programming
 		<ul>
 			<li> 
-				I have the classic habit of getting started on a program and then not getting far before I start working on another one!
+				I have the classic habit of getting started on a program and then not getting far before I start working on another one. This website is no exception.
 			</li>
 		</ul>
 	</li>
@@ -67,4 +68,10 @@ title: About
 
 <h3>Hobbies that I think I have but actually don't</h3>
 <p>These tend to be the hobbies that I like watching other people having:</p>
-<ul> <li>Working on/Fixing cars</li><li>Gardening</li><li>Keeping aquariums</li><li>Watching NBA</li><li>Camping</li></ul>
+<ul>
+ 	<li>Working on/Fixing cars</li>
+	<li>Gardening</li>
+	<li>Keeping aquariums</li>
+	<li>Watching NBA</li>
+	<li>Camping</li>
+</ul>
