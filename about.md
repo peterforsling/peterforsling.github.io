@@ -8,7 +8,7 @@ title: About Me
 <h1>About Me</h1>
 
 <h3>Education</h3>
-<p>I am entering my senior year at the University of Utah studying Computer Science, anticipating a Spring 2021 graduation. I am also a candidate for the School of Computing's BS/MS program, where students can get their MS in Computer Science in their fifth year.</p>
+<p>I am entering my undergraduate senior year at the University of Utah studying Computer Science, anticipating a Spring 2021 graduation. I am also a candidate for the School of Computing's BS/MS program, where students can get their MS in Computer Science in their fifth year.</p>
 
 <p>There is more to my college career than being a student. Most notably, I work as a Teaching Assistant for the School of Computing. Additionally, I have been involved with two extracurricular entities. <a href="https://hacktheu.org" target="_blank">HacktheU</a>, a non-profit organization devoted to foster learning in the Utah technology community, as well as <a href="https://wic.utahclubs.org" target="_blank">Women in Computing</a>, a group where women and allies can come to build relationships, network, and further develop their skills and careers.</p>
 

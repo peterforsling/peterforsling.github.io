@@ -1,7 +1,15 @@
 <nav>
+  <!--
   {% for item in site.data.navigation %}
-    <!--Make the link red if it is current page-->
-    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+    <a href="{{ item.link }}" {% if page.url == item.link %}class="current-nav-page"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
+  --->
+  {% for item in site.data.navigation %}
+    <a 
+      {% if page.url == item.link %}class="current-nav-page"{% else %}class="nav-page"{% endif %}
+      href="{{ item.link }}"> 
       {{ item.name }}
     </a>
   {% endfor %}
