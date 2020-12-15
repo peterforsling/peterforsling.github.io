@@ -1,9 +1,98 @@
 ---
+
 # Feel free to add content and custom Front Matter to this file.
+
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
 title: Home
 ---
-<h1>Peter Forsling</h1>
-<p>Welcome to my HTML-ridden, always-under-construction website!</p>
+
+<!-- Dark Blue w/ image and welcome message -->
+<section>
+    <div id="top-home-div" class="wide indigo">
+        <table id="img-welcome-table">
+            <tbody>
+                <tr>
+                    <td class="outer-top-col">
+                    </td>
+                    <td class="inner-top-col">
+                        <img src="assets/images/hacktheuheadshot.jpg" id="peter">
+                    </td>
+                    <td class="inner-top-col">
+                        <h1 id="welcome-header">Peter Forsling</h1>
+                        <p>Welcome to my HTML-ridden, always-under-construction website!</p>
+                        <p>I am a senior Computer Science student and teaching assistant at the University of Utah, and an incoming Associate Software Engineer at L3Harris Technologies.</p>
+                        <p></p>
+                    </td>
+                    <td class="outer-top-col">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</section>
+<section>
+    <div id="bottom-home-div" class="wide charcoal">
+    <div></div>
+    <!-- <div id="bottom-home-div" class="wide charcoal">
+        <h1>About Me</h1>
+        <h3>Education</h3>
+        <p>I am entering my undergraduate senior year at the University of Utah studying Computer Science, anticipating a Spring 2021 graduation. I am also a candidate for the School of Computing's BS/MS program, where students can get their MS in Computer Science in their fifth year.</p>
+        <p>There is more to my college career than being a student. Most notably, I work as a Teaching Assistant for the School of Computing. Additionally, I have been involved with two extracurricular entities. <a href="https://hacktheu.org" target="_blank">HacktheU</a>, a non-profit organization devoted to foster learning in the Utah technology community, as well as <a href="https://wic.utahclubs.org" target="_blank">Women in Computing</a>, a group where women and allies can come to build relationships, network, and further develop their skills and careers.</p>
+        <h3>Career</h3>
+        <p>I am a Teaching Assistant at the <a href="https://cs.utah.edu" target="_blank">University of Utah School of Computing</a>. I have assisted in various pre-major courses and am responsible for hosting office hours where students can get one on one help with assignments or other course topics, hosting labs where students can apply what they've learned in lecture, and be a mentor for these new students. Being a Teaching Assistant is something I take a lot of pride in, because this industry is intimidating, and competitve. I always want to be the exception of this stigma, and this position puts me in a great role to be the change I want to see.</p>
+        <p>I have completed an internship with <a href="https://l3harris.com" target="_blank">L3Harris Technologies</a> over summer 2020. I was on the Tactical Software Team at L3Harris' Communication Systems West Branch where I worked in an embedded Linux C# .NET Core environment, that involved implementing and working with multiple Communication Interface Protocols over Ethernet connections.</p>
+        <h3>Hobbies</h3>
+        <ul>
+            <li>
+                Weightlifting 
+                <ul>
+                    <li>
+                        I decided in 2018 that I was tired of being the "skinny guy". My goal is to reach 140 pounds (started at 110) and I have a long way to go. Right now I hover in between 125-130. I'm still the skinny guy, but at least I'm 15 pounds heavier than I used to be!
+                    </li>
+                </ul>
+            </li>
+            <li>
+                Video Games
+                <ul>
+                    <li>
+                        My favorite games to play at the moment are Minecraft, Oldschool Runescape, Terraria, and Valorant.
+                    </li>
+                </ul>
+            </li>
+            <li>
+                Sports
+                <ul>
+                    <li>
+                        My favorites to play are basketball, football, soccer, and volleyball. Am I particularly good at any of these sports? No.
+                    </li>
+                </ul>
+            </li>
+            <li>
+                Hiking
+                <ul>
+                    <li>
+                        I wouldn't be a Utahn if I didn't like hiking!
+                    </li>
+                </ul>
+            </li>
+            <li>
+                Programming
+                <ul>
+                    <li> 
+                        I have the classic habit of getting started on a program and then not getting far before I start working on another one. This website is no exception.
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <h3>Hobbies that I think I have but actually don't</h3>
+        <p>These tend to be the hobbies that I like watching other people having:</p>
+        <ul>
+            <li>Working on/Fixing cars</li>
+            <li>Gardening</li>
+            <li>Keeping aquariums</li>
+            <li>Watching NBA</li>
+            <li>Camping</li>
+        </ul>
+    </div> -->

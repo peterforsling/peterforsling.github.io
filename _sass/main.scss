@@ -1,3 +1,16 @@
+:root {
+
+  --charcoal: #2F424C;
+  --gunmetal: #2A3439;
+  --indigo-dye: #133C55;
+  --olivine: #B5C588;
+  --orange-yellow-crayola: #EED369;
+  }
+
+nav {
+  background-color: var(--charcoal);
+}
+
 .current-nav-page {
 	color: green;
   }
@@ -5,3 +18,4 @@
 .nav-page {
   color: blue;
 }
+
