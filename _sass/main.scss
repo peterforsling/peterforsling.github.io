@@ -5,10 +5,27 @@
   --indigo-dye: #133C55;
   --olivine: #B5C588;
   --orange-yellow-crayola: #EED369;
+  --orange-yellow-crayola-hover: #A9964D
   }
 
 nav {
   background-color: var(--charcoal);
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  color: var(--orange-yellow-crayola)
+}
+
+a:hover {
+  color: var(--orange-yellow-crayola-hover)
+}
+
+p {
+  size: 1rem;
 }
 
 .current-nav-page {
@@ -19,3 +36,12 @@ nav {
   color: blue;
 }
 
+.indigo {
+  background-color: var(--indigo-dye);
+  color: #ffffff;
+}
+
+.gunmetal {
+  background-color: var(--gunmetal);
+  color: #ffffff;
+}
